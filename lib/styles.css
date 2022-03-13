@@ -94,7 +94,7 @@ footer {
   color: black;
 }
 .h {
-  background: url(media/background_h.png) repeat center;
+  background: url(https://raw.githubusercontent.com/HgVN23/Old-cmd-wiki/main/lib/media/background_h.png) repeat center;
   background-size: contain;
   border-radius: 6px;
   font-size: 40px;
@@ -104,7 +104,7 @@ footer {
   text-align: center;
 }
 .h_cmd {
-  background: url(media/background_h.png) repeat center;
+  background: url(https://raw.githubusercontent.com/HgVN23/Old-cmd-wiki/main/lib/media/background_h.png) repeat center;
   background-size: contain;
   border-radius: 6px;
   font-size: 40px;
